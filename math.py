@@ -4,3 +4,7 @@ def add(x,y):
     
 def mult(x,y):
     return None 
+
+def mab(x,y):
+    return x+y 
+
